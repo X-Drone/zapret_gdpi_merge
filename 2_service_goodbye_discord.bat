@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 :: 65001 - UTF-8
-pause
+
 :: Path check
 set scriptPath=%~dp0
 set "path_no_spaces=%scriptPath: =%"

@@ -9,3 +9,4 @@ start "" goodbyedpi.exe -9 --fake-gen 5 --fake-from-hex 160301FFFF01FFFFFF030359
 
 POPD
 POPD
+pause
